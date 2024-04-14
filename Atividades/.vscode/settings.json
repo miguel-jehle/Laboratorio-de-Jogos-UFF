@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./PPlay1.1",
+        "./PPlay"
+    ]
+}
